@@ -1,0 +1,14 @@
+
+
+1. UI
+
+  login
+  home dashboard [side bar with home, products, customers, invoices, reports]
+  category list
+  product list
+  product master [add edit]
+  customer list
+  customer master [add edit]
+  invoice [add edit]
+  checkout
+  report [purchases list]
